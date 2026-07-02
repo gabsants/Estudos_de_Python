@@ -20,7 +20,7 @@ Este espaço concentra meus estudos de lógica de programação em Python. O foc
 | **Controle de Fluxo** | Condicionais ('if/else') e repetições. |<br>
 | **Dados & Matemática** | Listas, métodos de inserção e uso do módulo 'math' |<br>
 | **Strings & Visual** | Cadeia de caracteres, fatiamento e análise e módulos de cores. |<br>
-
+| **Funções & Escopo** | Criação de funções (`def`), passagem de parâmetros e retorno de valores. |<br>
 </div>
 
 ---

@@ -1,18 +1,18 @@
 # Estudos-Python
 <div align="center">
 
-# 🐍 Jornada Python: Fundamentos e Lógica
+# Jornada Python: Fundamentos e Lógica
 **Repositório dedicado à prática diária e registro de evolução.**
 
 ---
 </div>
 
-### 🎯 Objetivo
+### Objetivo
 Este espaço concentra meus estudos de lógica de programação em Python. O foco é manter códigos curtos, objetivos e bem comentados para consolidação de conceitos.
 
 ---
 
-### 🚀 Tecnologias e Conceitos em Destaque
+### Tecnologias e Conceitos em Destaque
 
 <div align="left">
 
@@ -31,7 +31,7 @@ Este espaço concentra meus estudos de lógica de programação em Python. O foc
 
 ---
 
-# 💻 Guia de execução(Python)
+# Guia de execução(Python)
 
 ---
 
@@ -39,22 +39,22 @@ Este espaço concentra meus estudos de lógica de programação em Python. O foc
 
 ### Siga os comandos abaixo para rodar os scripts localmente:
 
-### 🛠️ Preparação
+### Preparação
 Clone o repositório e acesse a pasta
 git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
 
-### 📦 Ambiente Virtual (Recomendado)
+###  Ambiente Virtual (Recomendado)
 Windows:
 python -m venv venv && .\venv\Scripts\activate
 
 Linux/Mac:
 python3 -m venv venv && source venv/bin/activate
 
-### ⚡Rodar o Projeto
+### Rodar o Projeto
 Execute o script desejado direto pelo terminal:
 python nome_do_arquivo.py
 
-**💡Dica: Se possuir requirements.txt, instale com pip install -r requirements.txt antes de executar.**
+**Dica: Se possuir requirements.txt, instale com pip install -r requirements.txt antes de executar.**
 
 ---
 </div>
